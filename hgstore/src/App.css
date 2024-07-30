@@ -1,0 +1,350 @@
+.divver{
+background-color: #0F1111;
+margin-top: 0.1em;
+height: 5rem;
+display: flex;
+}
+
+.divver1{
+  background-color: #0F1111;
+  /* background-color: red; */
+  height: 5rem;
+  width: 6rem;
+}
+
+.divver2{
+  background-color: #0F1111;
+  color: red;
+  width: 37rem;
+  margin: 0.3rem;
+  height: 4rem;
+  border-radius: 1rem;
+}
+
+.input-of-header{
+  width: 35rem;
+  height: 2.5rem;
+  margin-top: 0.7rem;
+  font-size: larger;
+  border: 0.1rem solid black;
+  border-radius: 1.5rem;
+  padding-left: 1rem;
+  color: black;
+  /* background-color: blue; */
+}
+
+.selct-of-header{
+  width: 5rem;
+  height: 2.5rem;
+  margin-left: 0.6rem;
+  margin-top: 1.2rem;
+  border-radius: 0.7rem;
+  border: none;
+  padding-left: 0.2rem;
+}
+
+.opt-select{
+  font-size: larger;
+  background-color: #d3d3d3;
+}
+
+.img-head{
+  height: 2.5rem;
+  /* color: white; */
+  margin-top: 0.2rem;
+}
+.icons{
+  color: white;
+  max-width: fit-content;
+  display: flex;
+  justify-content: space-around;
+}
+
+.icon-Div{
+width: 10rem;
+height: 3rem;
+/* background-color: red; */
+color: white;
+text-decoration: none;
+display: flex;
+justify-content: space-evenly;
+/* flex-direction: column; */
+flex-direction: row;
+margin-top: 0.9rem;
+border-radius: 0.6rem;
+border: 0.1rem solid white;
+margin-left: 0.1rem;
+margin-right: 0.1rem;
+}
+
+/* Applying styling on isActive */
+
+
+
+
+.para-ji{
+  color: white;
+  font-size: large;
+  /* padding-left: 1.5rem; */
+}
+
+/* Component = Request a Product */
+
+.ReqPro-div{
+  background-color: #222222;
+  display: flex;
+  color: white;
+  margin-top: 0.2rem;
+  /* justify-content: space-between; */
+}
+
+.para-pp{
+ color: red;
+}
+
+
+
+.h222{
+  width: 15rem;
+  padding-left: 1rem;
+  font-size: 1.5rem;
+  margin-top: 0rem;
+}
+.div-pp{
+/* background-color: violet; */
+width: 30rem;
+font-size: large;
+color: orange;
+}
+
+.liii{
+  /* margin-top: 0rem; */
+  padding-top: 1rem;
+}
+
+.div-req{
+  /* background-color: pink; */
+  display: flex;
+  height: 5rem;
+  width: 15rem;
+  margin-top: 0.8rem;
+  margin-left: 1rem;
+  color: #87CEEB;
+  border-radius: 2rem;
+  border: 0.1rem solid #87CEEB;
+  
+}
+
+.Mark{
+  width: 50rem;
+  /* background-color: aqua; */
+  color: #87CEEB;
+}
+
+.img-head1{
+  height: 4rem;
+  /* color: white; */
+  margin-top: 0.2rem;
+  margin-left: 1rem ;
+  padding-left: 1rem;
+}
+
+
+/* Footer Component */
+
+
+.icon-size{
+  height: 2rem;
+  margin-top: 0.4rem;
+}
+
+.icons-foot-main{
+  background-color: #222222;
+  color: white;
+  display: flex;
+  justify-content: space-around;
+}
+
+.para-footer{
+  display: flex;
+  font-size: larger;
+  /* background-color: violet; */
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.icons-foot{
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+/* Last Footer */
+
+.Footer-Last{
+  background-color: #0F1111;
+  color: white;
+  height: 3rem;
+  padding-top: 0.9rem;
+  margin: 0rem;
+}
+
+.last-footer-para{
+  margin: 0rem;
+  padding-left: 42rem;
+  color: gray;
+}
+.last-footer-para2{
+  padding-left: 45rem;
+  margin: 0rem;
+  color: gray;
+}
+
+
+/*  Psedu classes */
+.hover {
+  cursor: pointer; 
+}
+
+.select :hover{
+  cursor: pointer;
+  background-color: gray;
+  border-radius: 0.4rem;
+}
+
+.select2 :hover{
+  cursor: pointer;
+  background-color: gray;
+  border-radius: 0.4rem;
+  scale: 1.1;
+  color: black;
+}
+
+.select3 :hover{
+  cursor: pointer;
+  background-color: #d3d3d3;
+  border-radius: 0.6rem;
+  scale: 1.1;
+  color: black;
+  width: 32rem;
+  margin-left: 1.4rem;
+  margin-right: 1.2rem;
+}
+
+.selectall :hover{
+  cursor: pointer;
+  background-color: #d3d3d3;
+  border-radius: 0.9rem;
+  scale: 1.1;
+  color: black;
+  width: 5.4rem;
+  margin-right: 0.2rem;
+}
+
+.div-bcgImage{
+  background-image: url("https://images.pexels.com/photos/21751390/pexels-photo-21751390/free-photo-of-logo-harsh-general-store.png?auto=compress&cs=tinysrgb&w=600&lazy=load");
+  background-size: cover;
+  height: 4rem;
+  width: 7rem;
+  /* background-color: red; */
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  margin-right: 0.9rem;
+  margin-left: 0.2rem;
+}
+
+.para-Top-Header{
+  font-size: larger;
+  cursor: pointer;
+  color: white;
+  
+  text-decoration: none;
+}
+
+
+/* .para-Top-Header.isActive{
+  color: #87CEEB;
+  background-color: red;
+} */
+
+
+.butt-Top-Header{
+  height: 2.5rem;
+  width: 10rem;
+  border-radius: 0.8rem;
+  margin-top: 0.2rem;
+  margin-right: 0.2rem;
+  cursor: pointer;
+  background-color: #87CEEB;
+  color: black;
+  font-size: larger; 
+}
+
+.Remant:hover{
+  border: 0.1rem solid #87CEEB;
+  border-radius: 0.1rem;
+  scale: 2;
+}
+
+.Remant2:hover{
+  border: 0.1rem solid #87CEEB;
+  background-color: gray;
+}
+.Remant3:hover{
+  border: solid #87CEEB;
+  /* background-color: gray; */
+  scale: 1.1;
+  /* margin-left: 1rem;
+  margin-top: 2rem; */
+  margin-left: 0.4rem;
+  cursor: pointer;
+}
+
+.rrrr{
+  font-size: xx-large;
+  color: #87CEEB;
+  color: #222222;
+  color: gray;
+  font-size: xx-large;
+}
+
+.img-head2{
+  height: 2.5rem;
+  /* color: white; */
+  margin-top: 0.2rem;
+  margin-left: 0.3rem;
+  border: none;
+}
+
+
+.icon-Div4{
+  width: 20rem;
+  height: 3rem;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  /* flex-direction: column; */
+  flex-direction: row;
+  margin-top: 0.9rem;
+  text-align: start;
+  border-radius: 0.6rem;
+  border: 0.1rem solid gray;
+  margin-left: 0.1rem;
+  margin-right: 0.1rem;
+  }
+
+
+
+
+
+.product-card-newline {
+    clear: both; /* Ensures this element starts on a new line */
+}
+
+
+
+/* .bcg-image{
+  background-image: url("/Images/pngwing.com (56).png");
+} */
+
+

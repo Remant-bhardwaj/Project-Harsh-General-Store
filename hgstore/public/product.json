@@ -1,0 +1,550 @@
+[
+    
+    {
+        "id": 2,
+        "name": "Amul Toned",
+        "price": "₹28",
+        "description": "Amul Toned Milk",
+        "image": "/Images/TonedMilk.png"
+    },
+
+    {
+        "id": 3,
+        "name": "Amul Diamond",
+        "price": "₹55",
+        "description": "Amul Toned Milk",
+        "image": "/Images/pngwing.com (6).png"
+    },
+
+    {
+        "id": 4,
+        "name": "Amul Paneer",
+        "price": "₹99",
+        "description": "Amul Fresh Paneer",
+        "image": "/Images/pngwing.com (5).png"
+    },
+
+    {
+        "id": 5,
+        "name": "Amul Fresh Cream",
+        "price": "₹125",
+        "description": "Amul Fresh Cream",
+        "image": "/Images/pngwing.com (3).png"
+    },
+
+    {
+        "id": 6,
+        "name": "Amul Cheese Slice",
+        "price": "₹100",
+        "description": "Pack of 12 slices",
+        "image": "/Images/pngwing.com (2).png"
+    },
+
+    {
+        "id": 7,
+        "name": "Amul Cheese Spread",
+        "price": "₹115",
+        "description": "Amul Cheese Spread",
+        "image": "/Images/pngwing.com (7).png"
+    },
+    {
+        "id": 1,
+        "name": "Amul Lassi",
+        "price": "₹35",
+        "description": "Amul Lassi - Tetrapack",
+        "image": "/Images/pngwing.com (4).png"
+    },
+
+
+
+
+    {
+        "id": 8,
+        "name": "Pepsi",
+        "price": "₹25",
+        "description": "Chilled Pepsi Can - 250ml",
+        "image": "/Images/pngwing.com (9).png"
+    },
+
+    {
+        "id": 9,
+        "name": "Duo Pack",
+        "price": "₹25 + ₹25",
+        "description": "Chilled Pepsi & Coca-Cola - 250ml",
+        "image": "/Images/pngwing.com (8).png"
+    },
+
+    {
+        "id": 10,
+        "name":  "Sprite",
+        "price": "₹25",
+        "description": "Chilled Sprite Can - 250ml",
+        "image": "/Images/pngwing.com (17).png"
+    },
+
+    {
+        "id": 11,
+        "name": "Pepsi",
+        "price": "₹15",
+        "description": "Chilled Pepsi - 300ml",
+        "image": "/Images/pngwing.com (11).png"
+    },
+
+    {
+        "id": 12,
+        "name": "Coca Cola",
+        "price": "₹15",
+        "description": "Chilled Coca Cola - 300ml",
+        "image": "/Images/pngwing.com (13).png"
+    },
+
+    {
+        "id": 13,
+        "name": "Thumbs Up",
+        "price": "₹15",
+        "description": "Chilled Thumbs Up - 300ml",
+        "image": "/Images/pngwing.com (16).png"
+    },
+
+    {
+        "id": 14,
+        "name": "Pepsi",
+        "price": "₹35",
+        "description": "Chilled Pepsi - 500ml",
+        "image": "/Images/pngwing.com (12).png"
+    },
+    {
+        "id": 15,
+        "name": "Pepsi",
+        "price": "₹40",
+        "description": "Chilled Pepsi - 750ml",
+        "image": "/Images/pngwing.com (10).png"
+    },
+    {
+        "id": 16,
+        "name": "Coca Cola",
+        "price": "₹35",
+        "description": "Chilled Coca Cola - 500ml",
+        "image": "/Images/pngwing.com (15).png"
+    },
+    {
+        "id": 17,
+        "name": "Coca Cola",
+        "price": "₹50",
+        "description": "Chilled Coca Cola - 1L",
+        "image": "/Images/pngwing.com (14).png"
+    },
+    {
+        "id": 18,
+        "name": "Mountain Dew",
+        "price": "₹35",
+        "description": "Chilled Mountain Dew - 500ml",
+        "image": "/Images/pngwing.com (19).png"
+    },
+    {
+        "id": 19,
+        "name": "Family Pack",
+        "price": "₹240",
+        "description": "Pack of 5 Drinks - 1L each",
+        "image": "/Images/pngwing.com (18).png"
+    },
+
+
+
+
+    
+    {
+        "id": 21,
+        "name": "Lux - Strawberry & Cream",
+        "price": "₹40",
+        "description": "Pack of 4 Soaps",
+        "image": "/Images/pngwing.com (25).png"
+    },
+    {
+        "id": 22,
+        "name": "Lux - Soft & Creamy",
+        "price": "₹40",
+        "description": "Pack of 4 Soaps",
+        "image": "/Images/pngwing.com (22).png"
+    },
+    {
+        "id": 23,
+        "name": "Lux - Fresh Splash",
+        "price": "₹40",
+        "description": "Pack of 4 Soaps",
+        "image": "/Images/pngwing.com (23).png"
+    },
+    {
+        "id": 24,
+        "name": "Santoor - Sandal & Turmeric",
+        "price": "₹40",
+        "description": "Pack of 4 Soaps",
+        "image": "/Images/pngwing.com (27).png"
+    },
+    {
+        "id": 25,
+        "name": "Dettol - Cool",
+        "price": "₹40",
+        "description": "Pack of 4 Soaps",
+        "image": "/Images/pngwing.com (30).png"
+    },
+    {
+        "id": 26,
+        "name": "Lifebuoy - Care",
+        "price": "₹40",
+        "description": "Pack of 4 Soaps",
+        "image": "/Images/pngwing.com (33).png"
+    },
+
+    {
+        "id": 27,
+        "name": "Godrej No.1 -Sandalwood ",
+        "price": "₹40",
+        "description": "Pack of 4 Soaps",
+        "image": "/Images/pngwing.com (64).png"
+    },
+    {
+        "id": 28,
+        "name": "Dove - Shea Butter",
+        "price": "₹50",
+        "description": "Dove Soap - Shea Butter - 40g",
+        "image": "/Images/pngwing.com (67).png"
+    },
+    {
+        "id": 29,
+        "name": "Dove - Neam Aloevera",
+        "price": "₹60",
+        "description": "Dove Soap - Neam Aloever - 45g ",
+        "image": "/Images/pngwing.com (66).png"
+    },
+    {
+        "id": 30,
+        "name": "Dove - Pink Beauty Bar",
+        "price": "₹65",
+        "description": "Dove Soap - Pink Beauty Bar - 45g ",
+        "image": "/Images/pngwing.com (65).png"
+    },
+
+    {
+        "id": 20,
+        "name": "Lux - White Impress",
+        "price": "₹40",
+        "description": "Pack of 4 Soaps",
+        "image": "/Images/pngwing.com (26).png"
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "id": 32,
+        "name": "Lifebuoy - Total 10 Handwash",
+        "price": "₹30",
+        "description": "Lifebuoy Handwash - 80ml ",
+        "image": "/Images/pngwing.com (32).png"
+    },
+    {
+        "id": 33,
+        "name": "Dettol - Handwash",
+        "price": "₹40",
+        "description": "Dettol Handwash Soap - 250ml",
+        "image": "/Images/pngwing.com (31).png"
+    },
+    {
+        "id": 34,
+        "name": "Salcura - Handwash",
+        "price": "₹200",
+        "description": "Handwash for Sensitive & Dry Skin - 250ml",
+        "image": "/Images/pngwing.com (59).png"
+    },
+
+    {
+        "id": 36,
+        "name": "Living - Handwash",
+        "price": "₹200",
+        "description": "Living Premium Hanwash - 250ml",
+        "image": "/Images/pngwing.com (69).png"
+    },
+    {
+        "id": 37,
+        "name": "Faith in Nature - Handwash",
+        "price": "₹210",
+        "description": "Organic Pomegranate & Roobios Handwash - 250ml",
+        "image": "/Images/pngwing.com (68).png"
+    },
+    {
+        "id": 35,
+        "name": "Dettol ProFresh - Shower Gel",
+        "price": "₹4000",
+        "description": "Pack of 4 Shower Gel - 250ml",
+        "image": "/Images/pngwing.com (28).png"
+    },
+
+
+
+
+
+
+
+
+
+
+    {
+        "id": 38,
+        "name": "Tresemme - Moisture Rich",
+        "price": "₹400",
+        "description": "Tresemme - Moisture Rich - 350ml",
+        "image": "/Images/pngwing.com (60).png"
+    },
+    {
+        "id": 39,
+        "name": "Dove hair therapy",
+        "price": "₹350",
+        "description": "Dove Pro Age Shampoo - 350ml",
+        "image": "/Images/pngwing.com (61).png"
+    },
+    {
+        "id": 40,
+        "name": "Palmolive Naturals",
+        "price": "₹200",
+        "description": "Palmolive - Aloevera & Vitamin Extracts - 350ml",
+        "image": "/Images/pngwing.com (63).png"
+    },
+    {
+        "id": 41,
+        "name": "Pantene Pro-V",
+        "price": "₹360",
+        "description": "Pantene Pro-V Shampoo - 350ml",
+        "image": "/Images/pngwing.com (62).png"
+    },
+
+
+
+    {
+        "id": 42,
+        "name": "Head & Shoulder",
+        "price": "₹300",
+        "description": "Pack of 3 Bottles - 100ml",
+        "image": "/Images/pngwing.com (21).png"
+    },
+    {
+        "id": 43,
+        "name": "Dove - go fresh",
+        "price": "₹350",
+        "description": "Pack of 3 ",
+        "image": "/Images/pngwing.com (24).png"
+    },
+    {
+        "id": 44,
+        "name": "Seda Shampoo",
+        "price": "₹550",
+        "description": "Pack of 3 Bottles - 350ml",
+        "image": "/Images/pngwing.com (20).png"
+    },
+
+
+
+    {
+        "id": 45,
+        "name": "Choco bar",
+        "price": "₹10",
+        "description": "Mother Dairy - Choco bar",
+        "image": "/Images/pngwing.com (74).png"
+    },
+    {
+        "id": 46,
+        "name": "Kesar Kulfi",
+        "price": "Price : ₹25",
+        "description": "Mother Dairy - Kesar Kulfi",
+        "image": "/Images/pngwing.com (72).png"
+    },
+    {
+        "id": 47,
+        "name": "Choco Vanilla - Cone",
+        "price": "Price : ₹25",
+        "description": "Mother Dairy - Choco Vanilla - Cone",
+        "image": "/Images/pngwing.com (73).png"
+    },
+    {
+        "id": 48,
+        "name": "Butterscoth - Cone",
+        "price": "Price : ₹40",
+        "description": "Mother Dairy - ButterScoth - Cone",
+        "image": "/Images/pngwing.com (75).png"
+    },
+    {
+        "id": 49,
+        "name": "Strawberry Crush",
+        "price": "Price : ₹35",
+        "description": "Mother Dairy - Strawberry Crush - Cup",
+        "image": "/Images/pngwing.com (35).png"
+    },
+    {
+        "id": 50,
+        "name": "Cranberry - Sugar Free",
+        "price": "Price : ₹50",
+        "description": "Havmor - Sugar Free Cranberry - Cup",
+        "image": "/Images/pngwing.com (37).png"
+    },
+    {
+        "id": 51,
+        "name": "Family Pack - Cone",
+        "price": "Price : ₹180",
+        "description": "Pack of 6 Mother Dairy Cones - Value for Money",
+        "image": "/Images/pngwing.com (34).png"
+    },
+    
+    {
+        "id": 52,
+        "name": "Choco Chip - Brick - Family Pack",
+        "price": "Price : ₹110",
+        "description": "Mother Dairy - Choco Chip - Brick",
+        "image": "/Images/pngwing.com (70).png"
+    },
+    {
+        "id": 53,
+        "name": "Family Pack - Brick",
+        "price": "Price : ₹310",
+        "description": "Mother Dairy - Pack of 3 Family Pack Bricks",
+        "image": "/Images/pngwing.com (71).png"
+    },
+
+
+    {
+        "id": 54,
+        "name": "Nivea Men - Original",
+        "price": "₹110",
+        "description": "Mild Shaving Cream",
+        "image": "/Images/pngwing.com (50).png"
+    },
+    {
+        "id": 55,
+        "name": "Nivea Men - Original",
+        "price": "₹125",
+        "description": "Moisturizing Shaving Gel",
+        "image": "/Images/pngwing.com (47).png"
+    },
+    {
+        "id": 56,
+        "name": "Nivea Men - Original",
+        "price": "₹145",
+        "description": "Nivea Men Shaving Foam",
+        "image": "/Images/pngwing.com (76).png"
+    },
+    {
+        "id": 57,
+        "name": "Gillette",
+        "price": "₹130",
+        "description": "Shaving Gel",
+        "image": "/Images/pngwing.com (46).png"
+    },
+    {
+        "id": 58,
+        "name": "Gillette",
+        "price": "₹135",
+        "description": "Shaving Foam",
+        "image": "/Images/pngwing.com (49).png"
+    },
+    {
+        "id": 59,
+        "name": "Baboon - Beard Oil",
+        "price": "₹175",
+        "description": "Baboon - Beard Oil",
+        "image": "/Images/pngwing.com (78).png"
+    },
+    {
+        "id": 60,
+        "name": "American Crew",
+        "price": "₹125",
+        "description": "Shaving Gel",
+        "image": "/Images/pngwing.com (77).png"
+    },
+    {
+        "id": 61,
+        "name": "American Crew",
+        "price": "₹155",
+        "description": "Shaving Foam",
+        "image": "/Images/pngwing.com (79).png"
+    },
+    {
+        "id": 62,
+        "name": "Gillette Razor",
+        "price": "₹50",
+        "description": "Gillette Shaving Razor",
+        "image": "/Images/pngwing.com (48).png"
+    },
+    {
+        "id": 63,
+        "name": "Men`s Shaving Brush",
+        "price": "Price : ₹70",
+        "description": "Shaving Brush - Pack of 2",
+        "image": "/Images/pngwing.com (51).png"
+    },
+
+
+
+    {
+        "id": 64,
+        "name": "Motives`s Makeup set",
+        "price": "Price : ₹470",
+        "description": "Women Beauty Make up set",
+        "image": "/Images/pngwing.com (52).png"
+    },
+    {
+        "id": 65,
+        "name": "Elegant`s Makeup set",
+        "price": "Price : ₹490",
+        "description": "Women Beauty Make up set",
+        "image": "/Images/pngwing.com (53).png"
+    },
+    {
+        "id": 66,
+        "name": "Environ`s Beauty Care",
+        "price": "Price : ₹400",
+        "description": "Beauty Care Set",
+        "image": "/Images/pngwing.com (54).png"
+    },
+    {
+        "id": 67,
+        "name": "Maybelin`s Beauty Care",
+        "price": "Price : ₹500",
+        "description": "Maybelin`s Beauty Products Pack",
+        "image": "/Images/pngwing.com (55).png"
+    },
+    {
+        "id": 68,
+        "name": "Luxe`s Beauty Care",
+        "price": "Price : ₹400",
+        "description": "Luxw`s Beauty Products Pack",
+        "image": "/Images/pngwing.com (56).png"
+    },
+    {
+        "id": 69,
+        "name": "BB Beauty Care",
+        "price": "Price : ₹400",
+        "description": "BB Special`s Beauty Products Pack",
+        "image": "/Images/pngwing.com (57).png"
+    }
+
+
+
+
+
+    
+
+
+
+
+
+   
+
+
+]
